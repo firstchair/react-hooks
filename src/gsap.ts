@@ -1,3 +1,4 @@
+export * from './gsap/animations.js';
 export * from './gsap/components/SplitTextWrapper/SplitTextWrapper.js';
 export * from './gsap/hooks/useAnimation/useAnimation.js';
 export * from './gsap/hooks/useExposeAnimation/useExposeAnimation.js';
